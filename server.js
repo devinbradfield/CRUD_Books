@@ -17,7 +17,7 @@ const books = [
     author: "JK Rowling",
   },
   {
-    id: 3,
+    id: 2,
     title: "Harry Potter and the Prisoner of Azkaban",
     release_year: 1999,
     author: "JK Rowling",
